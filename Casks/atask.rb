@@ -1,6 +1,6 @@
 cask "atask" do
-  version "0.1.0"
-  sha256 "441c5635d29aae71cfe4a93c98e75fc877515e543f000530e61cbdb8f1f82015"
+  version "0.1.1"
+  sha256 "a5078375a6b0ab432c5d52e0846c0eb3c25931299676f0433b91bd6619f09742"
 
   url "https://dist.puddingtime.net/atask/v#{version}/atask_#{version}_aarch64.dmg"
   name "atask"
